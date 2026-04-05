@@ -1,0 +1,13 @@
+{
+  "version": "0.1",
+  "connections": [
+    {
+      "details": {
+        "protocol": "tds",
+        "address": { "server": "localhost", "database": "ERP_DEMO" },
+        "authentication": null
+      },
+      "mode": "Import"
+    }
+  ]
+}

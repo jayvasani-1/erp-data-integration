@@ -1,0 +1,4 @@
+<?xml version='1.0'?>
+<datasource inline='true' version='18.1' name='ERP_DEMO_SQLServer' hasconnection='true'>
+  <connection class='sqlserver' dbname='ERP_DEMO' server='localhost' authentication='auth-integrated' />
+</datasource>
